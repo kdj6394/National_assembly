@@ -1,4 +1,4 @@
-# 국회 입법활동 (National_assembly)
+# National Assembly of South Korea (국회입법활동)
 ## 개요
 * [dacon](https://dacon.io/competitions/official/235679/data/) 의 종료된 데이터를 이용해 국회활동을 알아본다.
 
@@ -11,7 +11,6 @@
 * analysis-covid19 : User\data
 
 ## Report
-
 ### history
 
 #### 대수별 국회의원수
@@ -34,7 +33,7 @@
 #### 대수별 발의법의안 처리상태
 * 8대 : 박정희 정권, 따라서 8대 국회는 해산되고 대신해서 비상국무회의에서 대부분의 안건을 처리했다.
 * 대수가 지남에 따라 폐기,철회,부결의 비율이 상승 가결률은 점점 하락
-* ![이미지](https://github.com/kdj6394/National_assembly/blob/main/img/history/%EB%8C%80%EC%88%98%EB%B3%84%EB%B0%9C%EC%9D%98%EB%B2%95%EC%9D%98%EC%95%88%EC%B2%98%EB%A6%AC%EB%B0%A9%EB%B2%95%EB%B9%84%EC%9C%A8.png?raw=true)
+![이미지](https://github.com/kdj6394/National_assembly/blob/main/img/history/%EB%8C%80%EC%88%98%EB%B3%84%EB%B0%9C%EC%9D%98%EB%B2%95%EC%9D%98%EC%95%88%EC%B2%98%EB%A6%AC%EB%B0%A9%EB%B2%95%EB%B9%84%EC%9C%A8.png?raw=true)
 
 #### 발의법의안 Top5
 * 아래와같이 5명이 등장한다.
